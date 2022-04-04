@@ -1,6 +1,4 @@
 import styled from "styled-components";
-// import bgMobile from "/assets/images/bg-header-mobile.svg";
-// import bgDesktop from "/assets/images/bg-header-desktop.svg";
 
 const Wrapper = styled.header`
   width: 100%;
